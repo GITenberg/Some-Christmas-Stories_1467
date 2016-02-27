@@ -1,0 +1,32 @@
+_repo: Some-Christmas-Stories_1467
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: Charles Dickens' work is ranked among the finest writing in the Western
+  canon, and the author specialized in seasonal stories to warm the hearts of his
+  adoring fans during the holiday season. This collection of Christmas-themed tales
+  are an entertaining read during the holidays or any time you need a quick pick-me-up.
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Christmas stories, English'
+- !lcsh 'Holidays -- Fiction'
+- !lcc 'PR'
+tableOfContents: A Christmas tree -- What Christmas is as we grow older -- The poor
+  relation's story -- The child's story -- The schoolboy's story -- Nobody's story.
+title: Some Christmas Stories
+url: http://www.gutenberg.org/ebooks/1467
