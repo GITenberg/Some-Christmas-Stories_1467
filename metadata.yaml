@@ -1,5 +1,8 @@
 _repo: Some-Christmas-Stories_1467
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -13,6 +16,8 @@ description: Charles Dickens' work is ranked among the finest writing in the Wes
   canon, and the author specialized in seasonal stories to warm the hearts of his
   adoring fans during the holiday season. This collection of Christmas-themed tales
   are an entertaining read during the holidays or any time you need a quick pick-me-up.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1467#Some-Christmas-Stories
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '1998-09-01'
 gutenberg_type: Text
