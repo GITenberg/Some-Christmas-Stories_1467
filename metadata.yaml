@@ -1,5 +1,5 @@
 _repo: Some-Christmas-Stories_1467
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,6 +32,7 @@ subjects:
 - !lcsh 'Christmas stories, English'
 - !lcsh 'Holidays -- Fiction'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: A Christmas tree -- What Christmas is as we grow older -- The poor
   relation's story -- The child's story -- The schoolboy's story -- Nobody's story.
 title: Some Christmas Stories
